@@ -1,0 +1,537 @@
+Schleswig-Holstein
+Flensburg, kreisfreie Stadt
+Kiel, kreisfreie Stadt
+Lübeck, kreisfreie Stadt, Hansestadt
+Neumünster, kreisfreie Stadt
+Dithmarschen, Landkreis
+Herzogtum Lauenburg, Landkreis
+Nordfriesland, Landkreis
+Ostholstein, Landkreis
+Pinneberg, Landkreis
+Plön, Landkreis
+Rendsburg-Eckernförde, Landkreis
+Schleswig-Flensburg, Landkreis
+Segeberg, Landkreis
+Steinburg, Landkreis
+Stormarn, Landkreis
+Hamburg
+Niedersachsen
+Braunschweig, Statistische Region
+Braunschweig, kreisfreie Stadt
+Salzgitter, kreisfreie Stadt
+Wolfsburg, kreisfreie Stadt
+Gifhorn, Landkreis
+Göttingen, Landkreis
+Goslar, Landkreis
+Helmstedt, Landkreis
+Northeim, Landkreis
+Osterode am Harz, Landkreis
+Peine, Landkreis
+Wolfenbüttel, Landkreis
+Göttingen, Landkreis
+Hannover, Statistische Region
+Region Hannover, Landkreis
+Hannover, Landeshauptstadt
+Diepholz, Landkreis
+Hameln-Pyrmont, Landkreis
+Hildesheim, Landkreis
+Holzminden, Landkreis
+Nienburg (Weser), Landkreis
+Schaumburg, Landkreis
+Lüneburg, Statistische Region
+Celle, Landkreis
+Cuxhaven, Landkreis
+Harburg, Landkreis
+Lüchow-Dannenberg, Landkreis
+Lüneburg, Landkreis
+Osterholz, Landkreis
+Rotenburg (Wümme), Landkreis
+Heidekreis
+Stade, Landkreis
+Uelzen, Landkreis
+Verden, Landkreis
+Weser-Ems, Statistische Region
+Delmenhorst, kreisfreie Stadt
+Emden, kreisfreie Stadt
+Oldenburg (Oldenburg), kreisfreie Stadt
+Osnabrück, kreisfreie Stadt
+Wilhelmshaven, kreisfreie Stadt
+Ammerland, Landkreis
+Aurich, Landkreis
+Cloppenburg, Landkreis
+Emsland, Landkreis
+Friesland, Landkreis
+Grafschaft Bentheim, Landkreis
+Leer, Landkreis
+Oldenburg, Landkreis
+Osnabrück, Landkreis
+Vechta, Landkreis
+Wesermarsch, Landkreis
+Wittmund, Landkreis
+Bremen
+Bremen, kreisfreie Stadt
+Bremerhaven, kreisfreie Stadt
+Nordrhein-Westfalen
+Düsseldorf, Regierungsbezirk
+Düsseldorf, kreisfreie Stadt
+Duisburg, kreisfreie Stadt
+Essen, kreisfreie Stadt
+Krefeld, kreisfreie Stadt
+Mönchengladbach, kreisfreie Stadt
+Mülheim an der Ruhr, kreisfreie Stadt
+Oberhausen, kreisfreie Stadt
+Remscheid, kreisfreie Stadt
+Solingen, kreisfreie Stadt
+Wuppertal, kreisfreie Stadt
+Kleve, Landkreis
+Mettmann, Landkreis
+Rhein-Kreis Neuss
+Viersen, Landkreis
+Wesel, Landkreis
+Köln, Regierungsbezirk
+Bonn, kreisfreie Stadt
+Köln, kreisfreie Stadt
+Leverkusen, kreisfreie Stadt
+Städteregion Aachen, Landkreis
+Aachen, kreisfreie Stadt
+Aachen, Landkreis
+Düren, Landkreis
+Rhein-Erft-Kreis
+Euskirchen, Landkreis
+Heinsberg, Landkreis
+Oberbergischer Landkreis
+Rheinisch-Bergischer Landkreis
+Rhein-Sieg-Kreis
+Münster, Regierungsbezirk
+Bottrop, kreisfreie Stadt
+Gelsenkirchen, kreisfreie Stadt
+Münster, kreisfreie Stadt
+Borken, Landkreis
+Coesfeld, Landkreis
+Recklinghausen, Landkreis
+Steinfurt, Landkreis
+Warendorf, Landkreis
+Detmold, Regierungsbezirk
+Bielefeld, kreisfreie Stadt
+Gütersloh, Landkreis
+Herford, Landkreis
+Höxter, Landkreis
+Lippe, Landkreis
+Minden-Lübbecke, Landkreis
+Paderborn, Landkreis
+Arnsberg, Regierungsbezirk
+Bochum, kreisfreie Stadt
+Dortmund, kreisfreie Stadt
+Hagen, kreisfreie Stadt
+Hamm, kreisfreie Stadt
+Herne, kreisfreie Stadt
+Ennepe-Ruhr-Kreis
+Hochsauerlandkreis
+Märkischer Landkreis
+Olpe, Landkreis
+Siegen-Wittgenstein, Landkreis
+Soest, Landkreis
+Unna, Landkreis
+Hessen
+Darmstadt, Regierungsbezirk
+Darmstadt, kreisfreie Stadt, Wissenschaftsstadt
+Frankfurt am Main, kreisfreie Stadt
+Offenbach am Main, kreisfreie Stadt
+Wiesbaden, kreisfreie Stadt, Landeshauptstadt
+Bergstraße, Landkreis
+Darmstadt-Dieburg, Landkreis
+Groß-Gerau, Landkreis
+Hochtaunuskreis
+Main-Kinzig-Kreis
+Main-Taunus-Kreis
+Odenwaldkreis
+Offenbach, Landkreis
+Rheingau-Taunus-Kreis
+Wetteraukreis
+Gießen, Regierungsbezirk
+Gießen, Landkreis
+Lahn-Dill-Kreis
+Limburg-Weilburg, Landkreis
+Marburg-Biedenkopf, Landkreis
+Vogelsbergkreis
+Kassel, Regierungsbezirk
+Kassel, kreisfreie Stadt, documenta-Stadt
+Fulda, Landkreis
+Hersfeld-Rotenburg, Landkreis
+Kassel, Landkreis
+Schwalm-Eder-Kreis
+Waldeck-Frankenberg, Landkreis
+Werra-Meißner-Kreis
+Rheinland-Pfalz
+Koblenz, Statistische Region
+Koblenz, kreisfreie Stadt
+Ahrweiler, Landkreis
+Altenkirchen (Westerwald), Landkreis
+Bad Kreuznach, Landkreis
+Birkenfeld, Landkreis
+Cochem-Zell, Landkreis
+Mayen-Koblenz, Landkreis
+Neuwied, Landkreis
+Rhein-Hunsrück-Kreis
+Rhein-Lahn-Kreis
+Westerwaldkreis
+Trier, Statistische Region
+Trier, kreisfreie Stadt
+Bernkastel-Wittlich, Landkreis
+Eifelkreis Bitburg-Prüm
+Vulkaneifel, Landkreis
+Trier-Saarburg, Landkreis
+Rheinhessen-Pfalz, Statistische Region
+Frankenthal (Pfalz), kreisfreie Stadt
+Kaiserslautern, kreisfreie Stadt
+Landau in der Pfalz, kreisfreie Stadt
+Ludwigshafen am Rhein, kreisfreie Stadt
+Mainz, kreisfreie Stadt
+Neustadt an der Weinstraße, kreisfreie Stadt
+Pirmasens, kreisfreie Stadt
+Speyer, kreisfreie Stadt
+Worms, kreisfreie Stadt
+Zweibrücken, kreisfreie Stadt
+Alzey-Worms, Landkreis
+Bad Dürkheim, Landkreis
+Donnersbergkreis
+Germersheim, Landkreis
+Kaiserslautern, Landkreis
+Kusel, Landkreis
+Südliche Weinstraße, Landkreis
+Rhein-Pfalz-Kreis
+Mainz-Bingen, Landkreis
+Südwestpfalz, Landkreis
+Baden-Württemberg
+Stuttgart, Regierungsbezirk
+Stuttgart, Stadtkreis
+Böblingen, Landkreis
+Esslingen, Landkreis
+Göppingen, Landkreis
+Ludwigsburg, Landkreis
+Rems-Murr-Kreis, Landkreis
+Heilbronn, Stadtkreis
+Heilbronn, Landkreis
+Hohenlohekreis, Landkreis
+Schwäbisch Hall, Landkreis
+Main-Tauber-Kreis, Landkreis
+Heidenheim, Landkreis
+Ostalbkreis, Landkreis
+Karlsruhe, Regierungsbezirk
+Baden-Baden, Stadtkreis
+Karlsruhe, Stadtkreis
+Karlsruhe, Landkreis
+Rastatt, Landkreis
+Heidelberg, Stadtkreis
+Mannheim, Stadtkreis
+Neckar-Odenwald-Kreis, Landkreis
+Rhein-Neckar-Kreis, Landkreis
+Pforzheim, Stadtkreis
+Calw, Landkreis
+Enzkreis, Landkreis
+Freudenstadt, Landkreis
+Freiburg, Regierungsbezirk
+Freiburg im Breisgau, Stadtkreis
+Breisgau-Hochschwarzwald, Landkreis
+Emmendingen, Landkreis
+Ortenaukreis, Landkreis
+Rottweil, Landkreis
+Schwarzwald-Baar-Kreis, Landkreis
+Tuttlingen, Landkreis
+Konstanz, Landkreis
+Lörrach, Landkreis
+Waldshut, Landkreis
+Tübingen, Regierungsbezirk
+Reutlingen, Landkreis
+Tübingen, Landkreis
+Zollernalbkreis, Landkreis
+Ulm, Stadtkreis
+Alb-Donau-Kreis, Landkreis
+Biberach, Landkreis
+Bodenseekreis, Landkreis
+Ravensburg, Landkreis
+Sigmaringen, Landkreis
+Bayern
+Oberbayern, Regierungsbezirk
+Ingolstadt, kreisfreie Stadt
+München, kreisfreie Stadt
+Rosenheim, kreisfreie Stadt
+Altötting, Landkreis
+Berchtesgadener Land, Landkreis
+Bad Tölz-Wolfratshausen, Landkreis
+Dachau, Landkreis
+Ebersberg, Landkreis
+Eichstätt, Landkreis
+Erding, Landkreis
+Freising, Landkreis
+Fürstenfeldbruck, Landkreis
+Garmisch-Partenkirchen, Landkreis
+Landsberg am Lech, Landkreis
+Miesbach, Landkreis
+Mühldorf a.Inn, Landkreis
+München, Landkreis
+Neuburg-Schrobenhausen, Landkreis
+Pfaffenhofen a.d.Ilm, Landkreis
+Rosenheim, Landkreis
+Starnberg, Landkreis
+Traunstein, Landkreis
+Weilheim-Schongau, Landkreis
+Niederbayern, Regierungsbezirk
+Landshut, kreisfreie Stadt
+Passau, kreisfreie Stadt
+Straubing, kreisfreie Stadt
+Deggendorf, Landkreis
+Freyung-Grafenau, Landkreis
+Kelheim, Landkreis
+Landshut, Landkreis
+Passau, Landkreis
+Regen, Landkreis
+Rottal-Inn, Landkreis
+Straubing-Bogen, Landkreis
+Dingolfing-Landau, Landkreis
+Oberpfalz, Regierungsbezirk
+Amberg, kreisfreie Stadt
+Regensburg, kreisfreie Stadt
+Weiden i.d.OPf., kreisfreie Stadt
+Amberg-Sulzbach, Landkreis
+Cham, Landkreis
+Neumarkt i.d.OPf., Landkreis
+Neustadt a.d.Waldnaab, Landkreis
+Regensburg, Landkreis
+Schwandorf, Landkreis
+Tirschenreuth, Landkreis
+Oberfranken, Regierungsbezirk
+Bamberg, kreisfreie Stadt
+Bayreuth, kreisfreie Stadt
+Coburg, kreisfreie Stadt
+Hof, kreisfreie Stadt
+Bamberg, Landkreis
+Bayreuth, Landkreis
+Coburg, Landkreis
+Forchheim, Landkreis
+Hof, Landkreis
+Kronach, Landkreis
+Kulmbach, Landkreis
+Lichtenfels, Landkreis
+Wunsiedel i.Fichtelgebirge, Landkreis
+Mittelfranken, Regierungsbezirk
+Ansbach, kreisfreie Stadt
+Erlangen, kreisfreie Stadt
+Fürth, kreisfreie Stadt
+Nürnberg, kreisfreie Stadt
+Schwabach, kreisfreie Stadt
+Ansbach, Landkreis
+Erlangen-Höchstadt, Landkreis
+Fürth, Landkreis
+Nürnberger Land, Landkreis
+Neustadt a.d.Aisch-Bad Windsheim, Landkreis
+Roth, Landkreis
+Weißenburg-Gunzenhausen, Landkreis
+Unterfranken, Regierungsbezirk
+Aschaffenburg, kreisfreie Stadt
+Schweinfurt, kreisfreie Stadt
+Würzburg, kreisfreie Stadt
+Aschaffenburg, Landkreis
+Bad Kissingen, Landkreis
+Rhön-Grabfeld, Landkreis
+Haßberge, Landkreis
+Kitzingen, Landkreis
+Miltenberg, Landkreis
+Main-Spessart, Landkreis
+Schweinfurt, Landkreis
+Würzburg, Landkreis
+Schwaben, Regierungsbezirk
+Augsburg, kreisfreie Stadt
+Kaufbeuren, kreisfreie Stadt
+Kempten (Allgäu), kreisfreie Stadt
+Memmingen, kreisfreie Stadt
+Aichach-Friedberg, Landkreis
+Augsburg, Landkreis
+Dillingen a.d.Donau, Landkreis
+Günzburg, Landkreis
+Neu-Ulm, Landkreis
+Lindau (Bodensee), Landkreis
+Ostallgäu, Landkreis
+Unterallgäu, Landkreis
+Donau-Ries, Landkreis
+Oberallgäu, Landkreis
+Saarland
+Saarbrücken, Regionalverband
+Saarbrücken, Landeshauptstadt
+Merzig-Wadern, Landkreis
+Neunkirchen, Landkreis
+Saarlouis, Landkreis
+Saarpfalz-Kreis
+St. Wendel, Landkreis
+Berlin
+Berlin-Mitte
+Berlin-Friedrichshain-Kreuzberg
+Berlin-Pankow
+Berlin-Charlottenburg-Wilmersdorf
+Berlin-Spandau
+Berlin-Steglitz-Zehlendorf
+Berlin-Tempelhof-Schöneberg
+Berlin-Neukölln
+Berlin-Treptow-Köpenick
+Berlin-Marzahn-Hellersdorf
+Berlin-Lichtenberg
+Berlin-Reinickendorf
+Brandenburg
+Brandenburg an der Havel, kreisfreie Stadt
+Cottbus, kreisfreie Stadt
+Frankfurt (Oder), kreisfreie Stadt
+Potsdam, kreisfreie Stadt
+Barnim, Landkreis
+Dahme-Spreewald, Landkreis
+Elbe-Elster, Landkreis
+Havelland, Landkreis
+Märkisch-Oderland, Landkreis
+Oberhavel, Landkreis
+Oberspreewald-Lausitz, Landkreis
+Oder-Spree, Landkreis
+Ostprignitz-Ruppin, Landkreis
+Potsdam-Mittelmark, Landkreis
+Prignitz, Landkreis
+Spree-Neiße, Landkreis
+Teltow-Fläming, Landkreis
+Uckermark, Landkreis
+Mecklenburg-Vorpommern
+Greifswald, Hansestadt, kreisfreie Stadt
+Neubrandenburg, Stadt,kreisfreie Stadt
+Rostock, kreisfreie Stadt
+Schwerin, kreisfreie Stadt
+Stralsund, Hansestadt,kreisfreie Stadt
+Wismar, Hansestadt,kreisfreie Stadt
+Bad Doberan, Landkreis
+Landkreis Demmin
+Güstrow, Landkreis
+Landkreis Ludwigslust
+Mecklenburg-Strelitz, Landkreis
+Landkreis Müritz
+Nordvorpommern, Landkreis
+Landkreis Nordwestmecklenburg
+Ostvorpommern, Landkreis
+Landkreis Parchim
+Rügen, Landkreis
+Landkreis Uecker-Randow
+Mecklenburgische Seenplatte, Landkreis
+Landkreis Rostock
+Vorpommern-Rügen, Landkreis
+Nordwestmecklenburg, Landkreis
+Vorpommern-Greifswald, Landkreis
+Ludwigslust-Parchim, Landkreis
+Sachsen
+Chemnitz, Regierungsbezirk
+Chemnitz, kreisfreie Stadt
+Plauen, kreisfreie Stadt
+Zwickau, kreisfreie Stadt
+Annaberg, Landkreis
+Chemnitzer Land, Landkreis
+Freiberg, Landkreis
+Vogtlandkreis
+Mittlerer Erzgebirgskreis
+Mittweida, Landkreis
+Stollberg, Landkreis
+Aue-Schwarzenberg, Landkreis
+Zwickauer Land, Landkreis
+Dresden, Regierungsbezirk
+Dresden, kreisfreie Stadt
+Görlitz, kreisfreie Stadt
+Hoyerswerda, kreisfreie Stadt
+Bautzen, Landkreis
+Meißen, Landkreis
+Niederschlesischer Oberlausitzkreis
+Riesa-Großenhain, Landkreis
+Löbau-Zittau, Landkreis
+Sächsische Schweiz, Landkreis
+Weißeritzkreis
+Kamenz, Landkreis
+Leipzig, Regierungsbezirk
+Leipzig, kreisfreie Stadt
+Delitzsch, Landkreis
+Döbeln, Landkreis
+Leipziger Land, Landkreis
+Muldentalkreis
+Torgau-Oschatz, Landkreis
+Chemnitz, Statistische Region
+Chemnitz, kreisfreie Stadt
+Erzgebirgskreis
+Mittelsachsen, Landkreis
+Vogtlandkreis
+Zwickau, Landkreis
+Dresden, Statistische Region
+Dresden, kreisfreie Stadt
+Bautzen, Landkreis
+Görlitz, Landkreis
+Meißen, Landkreis
+Sächsische Schweiz-Osterzgebirge, Landkreis
+Leipzig, Statistische Region
+Leipzig, kreisfreie Stadt
+Leipzig, Landkreis
+Nordsachsen, Landkreis
+Sachsen-Anhalt
+Dessau-Roßlau, kreisfreie Stadt
+Halle (Saale), kreisfreie Stadt
+Magdeburg, kreisfreie Stadt, Landeshauptstadt
+Altmarkkreis Salzwedel
+Anhalt-Bitterfeld, Landkreis
+Börde, Landkreis
+Burgenlandkreis
+Harz, Landkreis
+Jerichower Land, Landkreis
+Mansfeld-Südharz, Landkreis
+Saalekreis
+Salzlandkreis
+Stendal, Landkreis
+Wittenberg, Landkreis
+Dessau, Statistische Region
+Dessau, kreisfreie Stadt
+Anhalt-Zerbst, Landkreis
+Bernburg, Landkreis
+Bitterfeld, Landkreis
+Köthen, Landkreis
+Wittenberg, Landkreis
+Halle, Statistische Region
+Halle (Saale), kreisfreie Stadt
+Burgenlandkreis
+Mansfelder Land, Landkreis
+Merseburg-Querfurt, Landkreis
+Saalkreis
+Sangerhausen, Landkreis
+Weißenfels, Landkreis
+Magdeburg, Statistische Region
+Magdeburg, kreisfreie Stadt
+Aschersleben-Staßfurt, Landkreis
+Bördekreis
+Halberstadt, Landkreis
+Jerichower Land, Landkreis
+Ohrekreis
+Stendal, Landkreis
+Quedlinburg, Landkreis
+Schönebeck, Landkreis
+Wernigerode, Landkreis
+Altmarkkreis Salzwedel, Landkreis
+Thüringen
+Erfurt, kreisfreie Stadt
+Gera, kreisfreie Stadt
+Jena, kreisfreie Stadt
+Suhl, kreisfreie Stadt
+Weimar, kreisfreie Stadt
+Eisenach, kreisfreie Stadt
+Eichsfeld, Landkreis
+Nordhausen, Landkreis
+Wartburgkreis
+Unstrut-Hainich-Kreis
+Kyffhäuserkreis
+Schmalkalden-Meiningen, Landkreis
+Gotha, Landkreis
+Sömmerda, Landkreis
+Hildburghausen, Landkreis
+Ilm-Kreis
+Weimarer Land, Landkreis
+Sonneberg, Landkreis
+Saalfeld-Rudolstadt, Landkreis
+Saale-Holzland-Kreis
+Saale-Orla-Kreis
+Greiz, Landkreis
+Altenburger Land, Landkreis

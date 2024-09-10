@@ -1,0 +1,38 @@
+1. Query: Anzahl der Hochschulen pro bundesland
+
+SELECT adresse.Bundesland, Count(Hochschulkurzname)
+FROM hat, adresse
+WHERE hat.address_ID = adresse.address_ID
+GROUP BY Bundesland
+
+
+2. Query: Menge der Studierende pro Stadt (Top 15)
+
+SELECT Ort, sum(Anzahl Studierende)
+FROM hat, adresse, hochschule
+WHERE hat.address_ID = addresse.address_ID and hat.hochschulkurzname = hochschule.hochschulkurzname
+GROUP BY Ort Order BY sum(Anzahl Studierende) DESC LIMIT 15
+
+3. Query: Alle Unis mit habilitationsrecht
+
+SELECT hochschulkurzname, ort
+FROM hochschule, eigenschaft, besitzt, hat, adresse
+WHERE eigenschaft.ID = besitzt.ID 
+and hochschule.hochschulkurzname = besitzt.hochschulkurzname 
+and hat.hochschulkurzname = hochschule.hochschulkurzname 
+and hat.address_ID = adresse.adress_ID and habilitationsrecht = “Ja”
+
+4. Query: Bundesländer mit den Durschnittlich ältesten Unis
+
+SELECT adresse.bundesland, avg(hochschule.gründungsjahr)
+FROM adresse, hat, hochschule
+WHERE adresse.address_ID = hat.adress_ID and hat.hochschulkurzname = hochschule.hochschulkurzname
+GROUP BY bundesland ORDER BY avg(hochschule.gründungsjahr) ASC
+
+5. Query: alle Hochshulen in Städten mit mehr als 500.000 Bewohnern
+
+select bevoelkerung.name, hat.hochschulkurzname
+from angehorig ,bevoelkerung, adresse, "Hochschule", hat
+where bevoelkerung.id = angehorig.id and adresse.adress_id = angehorig.adress_id and hat.adress_id = adresse.adress_id and hat.hochschulkurzname = "Hochschule".hochschulkurzname
+and bevoelkerung.insgesamt > 500000
+

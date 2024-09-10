@@ -1,0 +1,108 @@
+die Nachfolgenden Befehle zeigen lediglich die befhle zu erstellung unserer Tabellen, für die csv Dateien 
+bitte im Ordner "Table-Files" schauen
+
+create table adresse
+(
+    adress_id                      integer not null
+        constraint adresse_pk
+            primary key,
+    bundesland                     text,
+    "Ort (Hausanschrift)"          text,
+    straße                         text,
+    "Postleitzahl (Hausanschrift)" text
+);
+
+alter table adresse
+    owner to postgres;
+
+
+create table angehorig
+(
+    id        integer
+        constraint angehorig_bevoelkerung__fk
+            references bevoelkerung,
+    adress_id integer not null
+        constraint angehorig_pk
+            primary key
+        constraint angehorig_adresse__fk
+            references adresse
+);
+
+alter table angehorig
+    owner to postgres;
+
+create table besitzt
+(
+    hochschulkurzname text not null
+        constraint besitzt_pk
+            primary key
+        constraint besitzt_hochschule__fk
+            references "Hochschule",
+    id                integer
+        constraint besitzt_eigenschaften__fk
+            references eigenschaften
+);
+
+alter table besitzt
+    owner to postgres;
+
+
+create table bevoelkerung
+(
+    id        integer not null
+        constraint bevoelkerung_pk
+            primary key,
+    name      text,
+    typ       text,
+    insgesamt integer
+);
+
+alter table bevoelkerung
+    owner to postgres;
+
+
+
+create table eigenschaften
+(
+    id                 integer not null
+        constraint eigenschaften_pk
+            primary key,
+    hochschultyp       text,
+    trägerschaft       text,
+    promotionsrecht    text,
+    habilitationsrecht text
+);
+
+alter table eigenschaften
+    owner to postgres;
+
+
+create table hat
+(
+    hochschulkurzname text not null
+        constraint hat_pk
+            primary key
+        constraint hat_hochschule__fk
+            references "Hochschule",
+    adress_id         integer
+        constraint hat_adresse__fk
+            references adresse
+);
+
+alter table hat
+    owner to postgres;
+
+
+create table "Hochschule"
+(
+    hochschulkurzname    text not null
+        constraint hochschule_pk
+            primary key,
+    hochschulname        text,
+    "Anzahl Studierende" integer,
+    gründungsjahr        integer,
+    "Home Page"          text
+);
+
+alter table "Hochschule"
+    owner to postgres;

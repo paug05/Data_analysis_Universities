@@ -1,0 +1,524 @@
+0,Deutschland,Land,84358845
+1,Schleswig-Holstein,Bundesland,2953270
+1001,Flensburg,kreisfreie Stadt,92550
+1002,Kiel,kreisfreie Stadt,247717
+1003,Lübeck,kreisfreie Stadt,218095
+1004,Neumünster,kreisfreie Stadt,79502
+1051,Dithmarschen,Landkreis,135252
+1053,Herzogtum Lauenburg,Landkreis,203712
+1054,Nordfriesland,Landkreis,169043
+1055,Ostholstein,Landkreis,203606
+1056,Pinneberg,Landkreis,322130
+1057,Plön,Landkreis,131266
+1058,Rendsburg-Eckernförde,Landkreis,278979
+1059,Schleswig-Flensburg,Landkreis,206038
+1060,Segeberg,Landkreis,284988
+1061,Steinburg,Landkreis,132419
+1062,Stormarn,Landkreis,247973
+2,Hamburg,Bundesland,1892122
+3,Niedersachsen,Bundesland,8140242
+31,Braunschweig,Statistische Region,1610865
+3101,Braunschweig,kreisfreie Stadt,251804
+3102,Salzgitter,kreisfreie Stadt,104548
+3103,Wolfsburg,kreisfreie Stadt,125961
+3151,Gifhorn,Landkreis,180232
+3153,Goslar,Landkreis,134672
+3154,Helmstedt,Landkreis,92470
+3155,Northeim,Landkreis,133258
+3156,Osterode am Harz,Landkreis,
+3157,Peine,Landkreis,138931
+3158,Wolfenbüttel,Landkreis,120531
+3159,Göttingen,Landkreis,328458
+32,Hannover,Statistische Region,2180058
+3241,Region Hannover,Landkreis,1173891
+3241001,Hannover,Landeshauptstadt,545045
+3251,Diepholz,Landkreis,222816
+3252,Hameln-Pyrmont,Landkreis,150640
+3254,Hildesheim,Landkreis,278371
+3255,Holzminden,Landkreis,70911
+3256,Nienburg,Landkreis,123469
+3257,Schaumburg,Landkreis,159960
+33,Lüneburg,Statistische Region,1757157
+3351,Celle,Landkreis,181994
+3352,Cuxhaven,Landkreis,201413
+3353,Harburg,Landkreis,261890
+3354,Lüchow-Dannenberg,Landkreis,49178
+3355,Lüneburg,Landkreis,187552
+3356,Osterholz,Landkreis,116551
+3357,Rotenburg,Landkreis,167604
+3358,Heidekreis,Landkreis,145394
+3359,Stade,Landkreis,210306
+3360,Uelzen,Landkreis,94362
+3361,Verden,Landkreis,140913
+34,Weser-Ems,Statistische Region,2592162
+3401,Delmenhorst,kreisfreie Stadt,78385
+3402,Emden,kreisfreie Stadt,50535
+3403,Oldenburg,kreisfreie Stadt,172830
+3404,Osnabrück,kreisfreie Stadt,167366
+3405,Wilhelmshaven,kreisfreie Stadt,76089
+3451,Ammerland,Landkreis,128253
+3452,Aurich,Landkreis,192072
+3453,Cloppenburg,Landkreis,177701
+3454,Emsland,Landkreis,338052
+3455,Friesland,Landkreis,100277
+3456,Grafschaft Bentheim,Landkreis,141269
+3457,Leer,Landkreis,174348
+3458,Oldenburg,Landkreis,133913
+3459,Osnabrück,Landkreis,366221
+3460,Vechta,Landkreis,146924
+3461,Wesermarsch,Landkreis,89568
+3462,Wittmund,Landkreis,58359
+4,Bremen,Bundesland,684864
+4011,Bremen,kreisfreie Stadt,569396
+4012,Bremerhaven,kreisfreie Stadt,115468
+5,Nordrhein-Westfalen,Bundesland,18139116
+51,Düsseldorf,Regierungsbezirk,5261157
+5111,Düsseldorf,kreisfreie Stadt,629047
+5112,Duisburg,kreisfreie Stadt,502211
+5113,Essen,kreisfreie Stadt,584580
+5114,Krefeld,kreisfreie Stadt,228426
+5116,Mönchengladbach,kreisfreie Stadt,268465
+5117,Mülheim an der Ruhr,kreisfreie Stadt,172404
+5119,Oberhausen,kreisfreie Stadt,210824
+5120,Remscheid,kreisfreie Stadt,112613
+5122,Solingen,kreisfreie Stadt,160643
+5124,Wuppertal,kreisfreie Stadt,358876
+5154,Kleve,Landkreis,319290
+5158,Mettmann,Landkreis,489794
+5162,Rhein-Kreis Neuss,Landkreis,457264
+5166,Viersen,Landkreis,300882
+5170,Wesel,Landkreis,465838
+53,Köln,Regierungsbezirk,4527594
+5314,Bonn,kreisfreie Stadt,336465
+5315,Köln,kreisfreie Stadt,1084831
+5316,Leverkusen,kreisfreie Stadt,165748
+5334,Städteregion Aachen,Landkreis,562559
+5334002,Aachen,kreisfreie Stadt,252136
+5354,Aachen,Landkreis,
+5358,Düren,Landkreis,270833
+5362,Rhein-Erft-Kreis,Landkreis,478126
+5366,Euskirchen,Landkreis,197247
+5370,Heinsberg,Landkreis,261833
+5374,Oberbergischer Landkreis,Landkreis,275404
+5378,Rheinisch-Bergischer Landkreis,Landkreis,286213
+5382,Rhein-Sieg-Kreis,Landkreis,608335
+55,Münster,Regierungsbezirk,2664280
+5512,Bottrop,kreisfreie Stadt,118113
+5513,Gelsenkirchen,kreisfreie Stadt,263000
+5515,Münster,kreisfreie Stadt,320946
+5554,Borken,Landkreis,379070
+5558,Coesfeld,Landkreis,224692
+5562,Recklinghausen,Landkreis,619732
+5566,Steinfurt,Landkreis,456464
+5570,Warendorf,Landkreis,282263
+57,Detmold,Regierungsbezirk,2085331
+5711,Bielefeld,kreisfreie Stadt,338332
+5754,Gütersloh,Landkreis,371309
+5758,Herford,Landkreis,253551
+5762,Höxter,Landkreis,141819
+5766,Lippe,Landkreis,350588
+5770,Minden-Lübbecke,Landkreis,315974
+5774,Paderborn,Landkreis,313758
+59,Arnsberg,Regierungsbezirk,3600754
+5911,Bochum,kreisfreie Stadt,365742
+5913,Dortmund,kreisfreie Stadt,593317
+5914,Hagen,kreisfreie Stadt,189783
+5915,Hamm,kreisfreie Stadt,180849
+5916,Herne,kreisfreie Stadt,157368
+5954,Ennepe-Ruhr-Kreis,Landkreis,325193
+5958,Hochsauerlandkreis,Landkreis,261647
+5962,Märkischer Landkreis,Landkreis,410346
+5966,Olpe,Landkreis,134439
+5970,Siegen-Wittgenstein,Landkreis,277136
+5974,Soest,Landkreis,306068
+5978,Unna,Landkreis,398866
+6,Hessen,Bundesland,6391360
+64,Darmstadt,Regierungsbezirk,4088107
+6411,Darmstadt,kreisfreie Stadt,162243
+6412,Frankfurt am Main,kreisfreie Stadt,773068
+6413,Offenbach am Main,kreisfreie Stadt,134170
+6414,Wiesbaden,kreisfreie Stadt,283083
+6431,Bergstraße,Landkreis,275205
+6432,Darmstadt-Dieburg,Landkreis,300658
+6433,Groß-Gerau,Landkreis,280308
+6434,Hochtaunuskreis,Landkreis,239488
+6435,Main-Kinzig-Kreis,Landkreis,430838
+6436,Main-Taunus-Kreis,Landkreis,242420
+6437,Odenwaldkreis,Landkreis,97577
+6438,Offenbach,Landkreis,362137
+6439,Rheingau-Taunus-Kreis,Landkreis,189614
+6440,Wetteraukreis,Landkreis,317298
+65,Gießen,Regierungsbezirk,1067354
+6531,Gießen,Landkreis,278664
+6532,Lahn-Dill-Kreis,Landkreis,257289
+6533,Limburg-Weilburg,Landkreis,174884
+6534,Marburg-Biedenkopf,Landkreis,249684
+6535,Vogelsbergkreis,Landkreis,106833
+66,Kassel,Regierungsbezirk,1235899
+6611,Kassel,kreisfreie Stadt,204202
+6631,Fulda,Landkreis,227456
+6632,Hersfeld-Rotenburg,Landkreis,121566
+6633,Kassel,Landkreis,240718
+6634,Schwalm-Eder-Kreis,Landkreis,182595
+6635,Waldeck-Frankenberg,Landkreis,159154
+6636,Werra-Meißner-Kreis,Landkreis,100208
+7,Rheinland-Pfalz,Bundesland,4159150
+71,Koblenz,Statistische Region,1522508
+7111,Koblenz,kreisfreie Stadt,115268
+7131,Ahrweiler,Landkreis,128161
+7132,Altenkirchen (Westerwald),Landkreis,131467
+7133,Bad Kreuznach,Landkreis,161307
+7134,Birkenfeld,Landkreis,81760
+7135,Cochem-Zell,Landkreis,62666
+7137,Mayen-Koblenz,Landkreis,218210
+7138,Neuwied,Landkreis,187440
+7140,Rhein-Hunsrück-Kreis,Landkreis,105566
+7141,Rhein-Lahn-Kreis,Landkreis,124381
+7143,Westerwaldkreis,Landkreis,206282
+72,Trier,Statistische Region,546565
+7211,Trier,kreisfreie Stadt,112195
+7231,Bernkastel-Wittlich,Landkreis,115099
+7232,Eifelkreis Bitburg-Prüm,Landkreis,103642
+7233,Vulkaneifel,Landkreis,61769
+7235,Trier-Saarburg,Landkreis,153860
+73,Rheinhessen-Pfalz,Statistische Region,2090077
+7311,Frankenthal (Pfalz),kreisfreie Stadt,49051
+7312,Kaiserslautern,kreisfreie Stadt,101228
+7313,Landau in der Pfalz,kreisfreie Stadt,47610
+7314,Ludwigshafen am Rhein,kreisfreie Stadt,174265
+7315,Mainz,kreisfreie Stadt,220552
+7316,Neustadt an der Weinstraße,kreisfreie Stadt,53981
+7317,Pirmasens,kreisfreie Stadt,40682
+7318,Speyer,kreisfreie Stadt,51368
+7319,Worms,kreisfreie Stadt,84646
+7320,Zweibrücken,kreisfreie Stadt,34534
+7331,Alzey-Worms,Landkreis,132536
+7332,Bad Dürkheim,Landkreis,134546
+7333,Donnersbergkreis,Landkreis,76208
+7334,Germersheim,Landkreis,130793
+7335,Kaiserslautern,Landkreis,108216
+7336,Kusel,Landkreis,71462
+7337,Südliche Weinstraße,Landkreis,112631
+7338,Rhein-Pfalz-Kreis,Landkreis,155921
+7339,Mainz-Bingen,Landkreis,214948
+7340,Südwestpfalz,Landkreis,94899
+8,Baden-Württemberg,Bundesland,11280257
+81,Stuttgart,Regierungsbezirk,4205849
+8111,Stuttgart,kreisfreie Stadt,632865
+8115,Böblingen,Landkreis,398528
+8116,Esslingen,Landkreis,540226
+8117,Göppingen,Landkreis,261857
+8118,Ludwigsburg,Landkreis,551051
+8119,Rems-Murr-Kreis,Landkreis,432397
+8121,Heilbronn,kreisfreie Stadt,128334
+8125,Heilbronn,Landkreis,353283
+8126,Hohenlohekreis,Landkreis,115063
+8127,Schwäbisch Hall,Landkreis,202834
+8128,Main-Tauber-Kreis,Landkreis,134745
+8135,Heidenheim,Landkreis,135035
+8136,Ostalbkreis,Landkreis,319631
+82,Karlsruhe,Regierungsbezirk,2848400
+8211,Baden-Baden,kreisfreie Stadt,57025
+8212,Karlsruhe,kreisfreie Stadt,308707
+8215,Karlsruhe,Landkreis,454613
+8216,Rastatt,Landkreis,234981
+8221,Heidelberg,kreisfreie Stadt,162273
+8222,Mannheim,kreisfreie Stadt,315554
+8225,Neckar-Odenwald-Kreis,Landkreis,145493
+8226,Rhein-Neckar-Kreis,Landkreis,555352
+8231,Pforzheim,kreisfreie Stadt,127849
+8235,Calw,Landkreis,162853
+8236,Enzkreis,Landkreis,202536
+8237,Freudenstadt,Landkreis,121164
+83,Freiburg,Regierungsbezirk,2322689
+8311,Freiburg im Breisgau,kreisfreie Stadt,236140
+8315,Breisgau-Hochschwarzwald,Landkreis,269948
+8316,Emmendingen,Landkreis,170996
+8317,Ortenaukreis,Landkreis,441885
+8325,Rottweil,Landkreis,142593
+8326,Schwarzwald-Baar-Kreis,Landkreis,217181
+8327,Tuttlingen,Landkreis,144891
+8335,Konstanz,Landkreis,292568
+8336,Lörrach,Landkreis,233027
+8337,Waldshut,Landkreis,173460
+84,Tübingen,Regierungsbezirk,1903319
+8415,Reutlingen,Landkreis,291696
+8416,Tübingen,Landkreis,232803
+8417,Zollernalbkreis,Landkreis,193235
+8421,Ulm,kreisfreie Stadt,128928
+8425,Alb-Donau-Kreis,Landkreis,202476
+8426,Biberach,Landkreis,206513
+8435,Bodenseekreis,Landkreis,222712
+8436,Ravensburg,Landkreis,290911
+8437,Sigmaringen,Landkreis,134045
+9,Bayern,Bundesland,13369393
+91,Oberbayern,Regierungsbezirk,4801769
+9161,Ingolstadt,kreisfreie Stadt,141029
+9162,München,kreisfreie Stadt,1512491
+9163,Rosenheim,kreisfreie Stadt,64403
+9171,Altötting,Landkreis,113798
+9172,Berchtesgadener Land,Landkreis,107667
+9173,Bad Tölz-Wolfratshausen,Landkreis,129511
+9174,Dachau,Landkreis,156982
+9175,Ebersberg,Landkreis,146830
+9176,Eichstätt,Landkreis,135591
+9177,Erding,Landkreis,141680
+9178,Freising,Landkreis,184433
+9179,Fürstenfeldbruck,Landkreis,221612
+9180,Garmisch-Partenkirchen,Landkreis,88840
+9181,Landsberg am Lech,Landkreis,123032
+9182,Miesbach,Landkreis,101346
+9183,Mühldorf a.Inn,Landkreis,119878
+9184,München,Landkreis,355890
+9185,Neuburg-Schrobenhausen,Landkreis,99957
+9186,Pfaffenhofen a.d.Ilm,Landkreis,132082
+9187,Rosenheim,Landkreis,266945
+9188,Starnberg,Landkreis,138785
+9189,Traunstein,Landkreis,180779
+9190,Weilheim-Schongau,Landkreis,138208
+92,Niederbayern,Regierungsbezirk,1273955
+9261,Landshut,kreisfreie Stadt,75457
+9262,Passau,kreisfreie Stadt,53907
+9263,Straubing,kreisfreie Stadt,49164
+9271,Deggendorf,Landkreis,122121
+9272,Freyung-Grafenau,Landkreis,79286
+9273,Kelheim,Landkreis,125701
+9274,Landshut,Landkreis,164773
+9275,Passau,Landkreis,196963
+9276,Regen,Landkreis,78035
+9277,Rottal-Inn,Landkreis,124436
+9278,Straubing-Bogen,Landkreis,103806
+9279,Dingolfing-Landau,Landkreis,100306
+93,Oberpfalz,Regierungsbezirk,1133741
+9361,Amberg,kreisfreie Stadt,42534
+9362,Regensburg,kreisfreie Stadt,157443
+9363,Weiden i.d.OPf.,kreisfreie Stadt,43052
+9371,Amberg-Sulzbach,Landkreis,104436
+9372,Cham,Landkreis,130193
+9373,Neumarkt i.d.OPf.,Landkreis,138086
+9374,Neustadt a.d.Waldnaab,Landkreis,95954
+9375,Regensburg,Landkreis,198160
+9376,Schwandorf,Landkreis,151711
+9377,Tirschenreuth,Landkreis,72172
+94,Oberfranken,Regierungsbezirk,1073783
+9461,Bamberg,kreisfreie Stadt,79935
+9462,Bayreuth,kreisfreie Stadt,74506
+9463,Coburg,kreisfreie Stadt,41842
+9464,Hof,kreisfreie Stadt,46656
+9471,Bamberg,Landkreis,149122
+9472,Bayreuth,Landkreis,104702
+9473,Coburg,Landkreis,87103
+9474,Forchheim,Landkreis,117948
+9475,Hof,Landkreis,94589
+9476,Kronach,Landkreis,66393
+9477,Kulmbach,Landkreis,71653
+9478,Lichtenfels,Landkreis,67328
+9479,Wunsiedel i.Fichtelgebirge,Landkreis,72006
+95,Mittelfranken,Regierungsbezirk,1805791
+9561,Ansbach,kreisfreie Stadt,42221
+9562,Erlangen,kreisfreie Stadt,116562
+9563,Fürth,kreisfreie Stadt,131433
+9564,Nürnberg,kreisfreie Stadt,523026
+9565,Schwabach,kreisfreie Stadt,41227
+9571,Ansbach,Landkreis,188623
+9572,Erlangen-Höchstadt,Landkreis,140994
+9573,Fürth,Landkreis,119923
+9574,Nürnberger Land,Landkreis,172665
+9575,Neustadt a.d.Aisch-Bad Windsheim,Landkreis,103303
+9576,Roth,Landkreis,128694
+9577,Weißenburg-Gunzenhausen,Landkreis,97120
+96,Unterfranken,Regierungsbezirk,1334376
+9661,Aschaffenburg,kreisfreie Stadt,72444
+9662,Schweinfurt,kreisfreie Stadt,54675
+9663,Würzburg,kreisfreie Stadt,127810
+9671,Aschaffenburg,Landkreis,176958
+9672,Bad Kissingen,Landkreis,104567
+9673,Rhön-Grabfeld,Landkreis,80341
+9674,Haßberge,Landkreis,84984
+9675,Kitzingen,Landkreis,93247
+9676,Miltenberg,Landkreis,129835
+9677,Main-Spessart,Landkreis,127132
+9678,Schweinfurt,Landkreis,117044
+9679,Würzburg,Landkreis,165339
+97,Schwaben,Regierungsbezirk,1945978
+9761,Augsburg,kreisfreie Stadt,301033
+9762,Kaufbeuren,kreisfreie Stadt,45792
+9763,Kempten,kreisfreie Stadt,70056
+9764,Memmingen,kreisfreie Stadt,45857
+9771,Aichach-Friedberg,Landkreis,137334
+9772,Augsburg,Landkreis,261342
+9773,Dillingen a.d.Donau,Landkreis,99109
+9774,Günzburg,Landkreis,130112
+9775,Neu-Ulm,Landkreis,180425
+9776,Lindau (Bodensee),Landkreis,83393
+9777,Ostallgäu,Landkreis,145378
+9778,Unterallgäu,Landkreis,150068
+9779,Donau-Ries,Landkreis,137137
+9780,Oberallgäu,Landkreis,158942
+10,Saarland,Bundesland,992666
+10041,Saarbrücken, Regionalverband,330848
+10041100,Saarbrücken,Landeshauptstadt,181959
+10042,Merzig-Wadern,Landkreis,104425
+10043,Neunkirchen,Landkreis,132283
+10044,Saarlouis,Landkreis,195749
+10045,Saarpfalz-Kreis,Landkreis,142419
+10046,St. Wendel,Landkreis,86942
+11,Berlin,Bundesland,3755251
+12,Brandenburg,Bundesland,2573135
+12051,Brandenburg an der Havel,kreisfreie Stadt,73609
+12052,Cottbus,kreisfreie Stadt,99515
+12053,Frankfurt (Oder),kreisfreie Stadt,58230
+12054,Potsdam,kreisfreie Stadt,185750
+12060,Barnim,Landkreis,191849
+12061,Dahme-Spreewald,Landkreis,178967
+12062,Elbe-Elster,Landkreis,100902
+12063,Havelland,Landkreis,169334
+12064,Märkisch-Oderland,Landkreis,200292
+12065,Oberhavel,Landkreis,218551
+12066,Oberspreewald-Lausitz,Landkreis,108263
+12067,Oder-Spree,Landkreis,182401
+12068,Ostprignitz-Ruppin,Landkreis,99871
+12069,Potsdam-Mittelmark,Landkreis,222570
+12070,Prignitz,Landkreis,76045
+12071,Spree-Neiße,Landkreis,112493
+12072,Teltow-Fläming,Landkreis,176648
+12073,Uckermark,Landkreis,117845
+13,Mecklenburg-Vorpommern,Bundesland,1628378
+13001,Greifswald,kreisfreie Stadt,
+13002,Neubrandenburg,kreisfreie Stadt,
+13003,Rostock,kreisfreie Stadt,209920
+13004,Schwerin,kreisfreie Stadt,98596
+13005,Stralsund,kreisfreie Stadt,
+13006,Wismar,kreisfreie Stadt,
+13051,Bad Doberan,Landkreis,
+13052,Landkreis Demmin,Landkreis,
+13053,Güstrow,Landkreis,
+13054,Landkreis Ludwigslust,Landkreis,
+13055,Mecklenburg-Strelitz,Landkreis,
+13056,Landkreis Müritz,Landkreis,
+13057,Nordvorpommern,Landkreis,
+13058,Landkreis Nordwestmecklenburg,Landkreis,
+13059,Ostvorpommern,Landkreis,
+13060,Landkreis Parchim,Landkreis,
+13061,Rügen,Landkreis,
+13062,Landkreis Uecker-Randow,Landkreis,
+13071,Mecklenburgische Seenplatte,Landkreis,259568
+13072,Landkreis Rostock,Landkreis,220807
+13073,Vorpommern-Rügen,Landkreis,227683
+13074,Nordwestmecklenburg,Landkreis,160288
+13075,Vorpommern-Greifswald,Landkreis,237355
+13076,Ludwigslust-Parchim,Landkreis,214161
+14,Sachsen,Bundesland,4086152
+141,Chemnitz,Regierungsbezirk,
+14161,Chemnitz,kreisfreie Stadt,
+14166,Plauen,kreisfreie Stadt,
+14167,Zwickau,kreisfreie Stadt,
+14171,Annaberg,Landkreis,
+14173,Chemnitzer Land,Landkreis,
+14177,Freiberg,Landkreis,
+14178,Vogtlandkreis,Landkreis,
+14181,Mittlerer Erzgebirgskreis,Landkreis,
+14182,Mittweida,Landkreis,
+14188,Stollberg,Landkreis,
+14191,Aue-Schwarzenberg,Landkreis,
+14193,Zwickauer Land,Landkreis,
+142,Dresden,Regierungsbezirk,
+14262,Dresden,kreisfreie Stadt,
+14263,Görlitz,kreisfreie Stadt,
+14264,Hoyerswerda,kreisfreie Stadt,
+14272,Bautzen,Landkreis,
+14280,Meißen,Landkreis,
+14284,Niederschlesischer Oberlausitzkreis,Landkreis,
+14285,Riesa-Großenhain,Landkreis,
+14286,Löbau-Zittau,Landkreis,
+14287,Sächsische Schweiz,Landkreis,
+14290,Weißeritzkreis,Landkreis,
+14292,Kamenz,Landkreis,
+143,Leipzig,Regierungsbezirk,
+14365,Leipzig,kreisfreie Stadt,
+14374,Delitzsch,Landkreis,
+14375,Döbeln,Landkreis,
+14379,Leipziger Land,Landkreis,
+14383,Muldentalkreis,Landkreis,
+14389,Torgau-Oschatz,Landkreis,
+145,Chemnitz,Statistische Region,1411556
+14511,Chemnitz,kreisfreie Stadt,248563
+14521,Erzgebirgskreis,Landkreis,328850
+14522,Mittelsachsen,Landkreis,300639
+14523,Vogtlandkreis,Landkreis,222666
+14524,Zwickau,Landkreis,310838
+146,Dresden,Statistische Region,1598250
+14612,Dresden,kreisfreie Stadt,563311
+14625,Bautzen,Landkreis,297711
+14626,Görlitz,Landkreis,249681
+14627,Meißen,Landkreis,241343
+14628,Sächsische Schweiz-Osterzgebirge,Landkreis,246204
+147,Leipzig,Statistische Region,1076346
+14713,Leipzig,kreisfreie Stadt,616093
+14729,Leipzig,Landkreis,260429
+14730,Nordsachsen,Landkreis,199824
+15,Sachsen-Anhalt,Bundesland,2186643
+15001,Dessau-Roßlau,kreisfreie Stadt,79655
+15002,Halle,kreisfreie Stadt,242083
+15003,Magdeburg,kreisfreie Stadt,239364
+15081,Altmarkkreis Salzwedel,Landkreis,82457
+15082,Anhalt-Bitterfeld,Landkreis,157235
+15083,Börde,Landkreis,171393
+15084,Burgenlandkreis,Landkreis,177212
+15085,Harz,Landkreis,210381
+15086,Jerichower Land,Landkreis,90256
+15087,Mansfeld-Südharz,Landkreis,132034
+15088,Saalekreis,Landkreis,183974
+15089,Salzlandkreis,Landkreis,186420
+15090,Stendal,Landkreis,110291
+15091,Wittenberg,Landkreis,123888
+151,Dessau,Statistische Region,
+15101,Dessau,kreisfreie Stadt,
+15151,Anhalt-Zerbst,Landkreis,
+15153,Bernburg,Landkreis,
+15154,Bitterfeld,Landkreis,
+15159,Köthen,Landkreis,
+152,Halle,Statistische Region,
+15202,Halle (Saale),kreisfreie Stadt,
+15256,Burgenlandkreis,Landkreis,
+15260,Mansfelder Land,Landkreis,
+15261,Merseburg-Querfurt,Landkreis,
+15265,Saalkreis,Landkreis,
+15266,Sangerhausen,Landkreis,
+15268,Weißenfels,Landkreis,
+153,Magdeburg,Statistische Region,
+15303,Magdeburg,kreisfreie Stadt,
+15352,Aschersleben-Staßfurt,Landkreis,
+15355,Bördekreis,Landkreis,
+15357,Halberstadt,Landkreis,
+15358,Jerichower Land,Landkreis,
+15362,Ohrekreis,Landkreis,
+15363,Stendal,Landkreis,
+15364,Quedlinburg,Landkreis,
+15367,Schönebeck,Landkreis,
+15369,Wernigerode,Landkreis,
+15370,Altmarkkreis Salzwedel,Landkreis,
+16,Thüringen,Bundesland,2126846
+16051,Erfurt,kreisfreie Stadt,214969
+16052,Gera,kreisfreie Stadt,93634
+16053,Jena,kreisfreie Stadt,111191
+16054,Suhl,kreisfreie Stadt,37009
+16055,Weimar,kreisfreie Stadt,65620
+16056,Eisenach,kreisfreie Stadt,
+16061,Eichsfeld,Landkreis,100091
+16062,Nordhausen,Landkreis,82444
+16063,Wartburgkreis,Landkreis,159539
+16064,Unstrut-Hainich-Kreis,Landkreis,102256
+16065,Kyffhäuserkreis,Landkreis,73690
+16066,Schmalkalden-Meiningen,Landkreis,123939
+16067,Gotha,Landkreis,134941
+16068,Sömmerda,Landkreis,69646
+16069,Hildburghausen,Landkreis,61926
+16070,Ilm-Kreis,Landkreis,106776
+16071,Weimarer Land,Landkreis,83179
+16072,Sonneberg,Landkreis,56922
+16073,Saalfeld-Rudolstadt,Landkreis,101494
+16074,Saale-Holzland-Kreis,Landkreis,83234
+16075,Saale-Orla-Kreis,Landkreis,79178
+16076,Greiz,Landkreis,96381
+16077,Altenburger Land,Landkreis,88787
